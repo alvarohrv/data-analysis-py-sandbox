@@ -1,0 +1,117 @@
+# ──────────────────────────────
+# gitignore mas común para proyectos de Python
+# ──────────────────────────────
+
+
+# ──────────────────────────────
+# Entornos virtuales (TODOS los posibles)
+# ──────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env/
+envs/
+.conda/
+
+# Poetry
+.cache/
+.poetry/
+
+# uv (el nuevo rey)
+.uv_cache/
+.uv/
+
+# Conda / Miniconda
+.conda/
+conda-bld/
+
+# Pipenv
+Pipfile.lock
+.pipenv/
+
+# ──────────────────────────────
+# Python cachés y temporales
+# ──────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.manifest
+*.spec
+
+# ──────────────────────────────
+# Jupyter Notebook
+# ──────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos temporales de Jupyter
+~*.*.ipynb
+
+# ──────────────────────────────
+# VS Code
+# ──────────────────────────────
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+
+# ──────────────────────────────
+# macOS / Windows / Linux
+# ──────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ──────────────────────────────
+# Datos sensibles / locales
+# ──────────────────────────────
+.env
+.env.local
+.env.*.local
+*.sqlite3
+*.db
+data/raw/
+data/private/
+
+# ──────────────────────────────
+# Logs y bases de datos de desarrollo
+# ──────────────────────────────
+*.log
+*.sqlite
+*.sqlite3
+
+# ──────────────────────────────
+# Carpeta de resultados / exports (ajústalas tú)
+# ──────────────────────────────
+output/
+results/
+exports/
+*.csv
+*.parquet
+*.feather
+*.xlsx
+
+# (Si quieres subir algunos archivos de datos, quita las líneas de arriba y usa Git LFS)

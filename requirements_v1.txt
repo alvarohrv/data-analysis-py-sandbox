@@ -1,0 +1,60 @@
+# Librerías básicas de análisis de datos ---  ---  --- 
+
+# -------------------------------------------------------
+# Núcleo de análisis de datos----------------------------
+# -------------------------------------------------------
+numpy
+pandas
+scipy # Estadística
+scikit-learn
+
+# -------------------------------------------------------
+# Visualización------------------------------------------
+# -------------------------------------------------------
+matplotlib
+seaborn
+plotly # Gráficos interactivos y visualizaciones web
+
+# -------------------------------------------------------
+# Machine Learning / NLP---------------------------------
+# -------------------------------------------------------
+transformers
+datasets
+# Modelos y datasets de Hugging Face ---  ---  ---  --- 
+
+# -------------------------------------------------------
+# Formatos de datos (opcional pero útil)-----------------
+# -------------------------------------------------------
+pyarrow # formatos de datos modernos
+ 
+# -------------------------------------------------------
+# Entrada/salida de archivos (Excel)
+# -------------------------------------------------------
+openpyxl # → leer/escribir archivos .xlsx
+xlsxwriter # → generar archivos Excel desde cero
+# Lectura y escritura de archivos / Excel ---  ---  --- 
+
+# -------------------------------------------------------
+# Utilidades varias--------------------------------------
+# -------------------------------------------------------
+python-dotenv # Variables de entorno _ .env.
+requests #Solicitudes HTTP # Para consumir APIs REST, scrapers simples y networking.
+
+# -------------------------------------------------------
+# Estadística avanzada-----------------------------------
+# -------------------------------------------------------
+statsmodels
+pingouin #opcional para practicar pruebas estadísticas
+
+# -------------------------------------------------------
+# Entorno interactivo------------------------------------
+# -------------------------------------------------------
+ipython
+jupyterlab
+
+#### $ pip install -r requirements.txt ### ---  ---  --- 
+
+# Curiosidad
+# matplotlib → instala automáticamente contourpy, fonttools, cycler, kiwisolver
+# pandas → instala numpy, tzdata, python-dateutil, pytz
+# seaborn → instala matplotlib y pandas
