@@ -1,4 +1,4 @@
-titulo,artista,album,pais,anio,duracion_seg,generacion
+tittle,artist,album,country,released,length_seg,category
 De música ligera,Soda Stereo,Canción Animal,Argentina,1990,252,Clasico
 Persiana americana,Soda Stereo,Signos,Argentina,1986,230,Clasico
 Música ligera,Soda Stereo,Me Verás Volver,Argentina,2007,245,EnVivo
