@@ -1,0 +1,51 @@
+nombre,marca,categoria,presentacion,estado
+Laptop Gaming,Asus,Electrónicos,Portátil,Activo
+Mouse Óptico,Logitech,Periféricos,USB,Activo
+Teclado Mecánico,Razer,Periféricos,USB,Inactivo
+Smartphone Samsung,Galaxy,Celulares,6.5 pulgadas,Activo
+Auriculares Sony,WH-1000XM5,Audio,Inalámbrico,Activo
+Monitor 24",Dell,Electrónicos,24 pulgadas,Activo
+SSD 1TB,Samsung,Almacenamiento,Sólido,Activo
+Impresora HP,Deskjet,Oficina,Inyección tinta,Inactivo
+Tablet iPad,Apple,Tablets,10.2 pulgadas,Activo
+Webcam Logitech,C920,Periféricos,Full HD,Activo
+Mousepad Razer,Gigante,Accesorios,Tela,Activo
+RAM 16GB,Corsair,DDR4,Desktop,Activo
+Cámara Canon,EOS R10,Fotografía,Mirrorless,Activo
+Proyector Epson,Home Cinema,Audio Visual,Full HD,Inactivo
+Router TP-Link,AX3000,Redes,WiFi 6,Activo
+Batería Externa,Anker,20.000mAh,PowerBank,Activo
+Silla Gamer,DXRacer,Oficina,Ergonómica,Activo
+Microfono Blue,Yeti,Audio,USB,Activo
+Tarjeta Gráfica,NVIDIA,RTX 3060,Electrónicos,Activo
+Cargador MacBook,Apple,65W,USB-C,Inactivo
+Fundas iPhone,Otterbox,Accesorios,Protección,Activo
+Disco Duro WD,Elements,4TB,Externo,Activo
+Altavoz JBL,Charge 5,Audio,Portátil,Activo
+Scanner Epson,Perfección,Oficina,Plano,Inactivo
+Smartwatch Garmin,Venu 3,Wearables,GPS,Activo
+Laptop Ultrabook,Lenovo,Electrónicos,14 pulgadas,Activo
+Headset SteelSeries,Arctis 7,Audio,Inalámbrico,Activo
+Pendrive SanDisk,64GB,Almacenamiento,USB 3.0,Activo
+Monitor Curvo,Samsung,Electrónicos,34 pulgadas,Activo
+Smartphone Xiaomi,Redmi,Celulares,6.7 pulgadas,Inactivo
+Teclado Inalámbrico,Logitech,K380,Periféricos,Bluetooth,Activo
+Cámara Web 4K,Razer,Periféricos,4K,Activo
+Soporte Monitor,AmazonBasics,Accesorios,Ajustable,Activo
+Impresora Láser,Brother,Oficina,Láser,Activo
+Power Strip,Belkin,Accesorios,6 tomas,Activo
+Mouse Gaming,SteelSeries,Rival 3,Periféricos,USB,Activo
+Tablet Samsung,Galaxy Tab,Tablets,11 pulgadas,Activo
+SSD NVMe,WD Black,Almacenamiento,M.2,Activo
+Auriculares Gamer,HyperX,Audio,USB,Inactivo
+Router Mesh,Google,Nest,Redes,WiFi 6,Activo
+Lápiz Óptico,iPad Pencil,Accesorios,Bluetooth,Activo
+Monitor 4K,LG,Electrónicos,27 pulgadas,Activo
+Cámara GoPro,Hero 12,Fotografía,Acción,Activo
+Silla Ejecutiva,Herman Miller,Oficina,Ergonómica,Inactivo
+Hub USB,Anker,Accesorios,7 puertos,Activo
+Altavoz Sonos,One,Audio,Inteligente,Activo
+Disco SSD Externo,Samsung,T7,Almacenamiento,USB-C,Activo
+Teclado Numérico,Logitech,Periféricos,USB,Activo
+Smart TV,Samsung,55 pulgadas,Electrónicos,QLED,Activo
+Cargador Rápido,RAVPower,30W,Accesorios,USB-C,Activo
