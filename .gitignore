@@ -109,7 +109,6 @@ data/private/
 output/
 results/
 exports/
-*.csv
 *.parquet
 *.feather
 *.xlsx
