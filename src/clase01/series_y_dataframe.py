@@ -6,7 +6,6 @@ df=pd.read_csv('src/clase01/productos.csv')
 otro_df=pd.read_csv('src/clase01/otros_productos.csv')
 # FUNCIONES BÁSICAS DE PANDAS
 
-df[df['precio'] > 50]
 
 #/////////////////////////////////////
 #/////////////////////////////////////
@@ -24,6 +23,7 @@ pd.DataFrame() #Crear DataFrame desde diccionarios o listas
 #/////////////////////////////////////
 #/////////////////////////////////////
 
+# ### # SELECCIÓN DE DATOS EN PANDAS MEDIANTE `loc`, `iloc` Y NOMBRE DIRECTO #### 
 '''
 En Pandas existen **dos grandes formas de seleccionar datos**:
 '''
@@ -66,15 +66,25 @@ df['columna']
 df[['columna']]
 df[['col1', 'col2']]
 
-
+# /////////////////////////////////////////7
 # 🟣 4. Selección avanzada
 ### ✔ Usar condiciones (Boolean Masking)
 df[df['edad'] > 30]
 df[(df['edad'] > 30) & (df['ciudad'] == 'Bogotá')]
+
 ### ✔ Usar `isin`
+#  'isin' permite filtrar filas donde una columna tiene valores dentro de una lista dada. en excel es similar a la funcióN...??
+
 df[df['categoria'].isin(['A', 'B', 'C'])]
-### ✔ Selección por query
+### ✔ Selección por quer
 df.query("edad > 30 and ciudad == 'Bogotá'")
+
+# Using .loc for label-based indexing
+# Seleccionar filas donde 'edad' > 30 y mostrar solo 'nombre' y 'ciudad'
+df.loc[df['edad'] > 30, ['nombre', 'ciudad']]
+'''
+se diferentcia de 'df[df['edad'] > 30][['nombre', 'ciudad']]' en que es más eficiente y claro al combinar filtrado y selección de columnas en una sola operación.  ?????
+'''
 
 
 #/////////////////////////////////////
