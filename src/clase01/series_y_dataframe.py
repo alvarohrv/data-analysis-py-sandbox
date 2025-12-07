@@ -73,10 +73,11 @@ df[df['edad'] > 30]
 df[(df['edad'] > 30) & (df['ciudad'] == 'Bogotá')]
 
 ### ✔ Usar `isin`
-#  'isin' permite filtrar filas donde una columna tiene valores dentro de una lista dada. en excel es similar a la funcióN...??
-
+# 'isin' permite filtrar filas según si una columna tiene valores dentro de una lista dada.
+# En Excel es similar a: aplicar Filtro a la tabla por varios valores,
+# o usar funciones como OR() y COUNTIF() para comprobar si un valor está en una lista.
 df[df['categoria'].isin(['A', 'B', 'C'])]
-### ✔ Selección por quer
+### ✔ Selección por query
 df.query("edad > 30 and ciudad == 'Bogotá'")
 
 # Using .loc for label-based indexing
