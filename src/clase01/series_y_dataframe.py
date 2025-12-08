@@ -6,7 +6,6 @@ df=pd.read_csv('src/clase01/productos.csv')
 otro_df=pd.read_csv('src/clase01/otros_productos.csv')
 # FUNCIONES BÁSICAS DE PANDAS
 
-
 #/////////////////////////////////////
 #/////////////////////////////////////
 #/////////////////////////////////////
