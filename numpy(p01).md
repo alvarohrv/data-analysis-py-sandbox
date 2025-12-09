@@ -20,7 +20,7 @@ Por eso, aunque instales Pandas, también tienes NumPy instalado — o se instal
 
 ---
 
-# 🟩 2. Creación de arreglos (ndarrays)
+## 🟩 2. Creación de arreglos (ndarrays)
 
 ```python
 import numpy as np
@@ -50,7 +50,7 @@ a.shape   # tupla con la forma (5,)  ← 5 elementos en 1D
 
 ---
 
-# 🟦 3. Indexación y slicing
+## 🟦 3. Indexación y slicing
 
 ```python
 a[0]       # primer elemento
@@ -61,7 +61,7 @@ a[::-1]    # arreglo invertido
 
 ---
 
-# 🟥 4. Operaciones vectorizadas (gran ventaja de NumPy)
+## 🟥 4. Operaciones vectorizadas (gran ventaja de NumPy)
 
 NumPy permite operar vectores **sin ciclos for**.
 
@@ -129,7 +129,7 @@ z = 2 * y     # array([2, 6])
 
 ---
 
-# 🟧 5. Producto Hadamard (multiplicación elemento a elemento)
+## 🟧 5. Producto Hadamard (multiplicación elemento a elemento)
 
 ```python
 u = np.array([1, 2])
@@ -147,7 +147,7 @@ print(arr3) # [ 20  20  60 120 200 300]
 ~~~
 ---
 
-# 🟪 6. Producto Punto (Dot Product)
+## 🟪 6. Producto Punto (Dot Product)
 
 ```python
 u = np.array([1, 2])
@@ -155,6 +155,15 @@ v = np.array([3, 2])
 
 z = np.dot(u, v)  
 # (1*3 + 2*2) = 7
+
+u = np.array([-1, 1])
+v = np.array([1, 1])
+
+z = np.dot(u, v)  
+# (-1 + (1)) = 0
+
+
+
 ```
 
 ### ¿Para qué se usa el producto punto?
@@ -169,7 +178,7 @@ Es una **operación fundamental** en álgebra lineal.
 
 ---
 
-# 🟨 7. Broadcasting
+## 🟨 7. Broadcasting
 
 El *broadcasting* es cuando NumPy “expande” automáticamente las dimensiones necesarias para que dos arreglos puedan operar entre sí.
 
@@ -197,7 +206,7 @@ NumPy replica `v` verticalmente para hacer la suma.
 
 ---
 
-# 🟫 8. Funciones universales (ufuncs)
+## 8. Funciones universales (ufuncs)
 
 Son funciones optimizadas en C que operan **elemento a elemento**.
 
@@ -222,7 +231,7 @@ np.std(a)
 
 ---
 
-# 🟩 9. Creación de arreglos útiles
+## 🟩 9. Creación de arreglos útiles
 
 ### Rango lineal
 
@@ -252,7 +261,7 @@ np.eye(3)
 
 ---
 
-# 🟦 10. Reshape (cambiar forma del arreglo)
+## 🟦 10. Reshape (cambiar forma del arreglo)
 
 Muy útil en Machine Learning.
 
@@ -263,7 +272,7 @@ a.reshape(2,3)
 
 ---
 
-# 🟣 11. ¿Qué tema matemático debería repasar para entender esto mejor?
+## 🟣 11. ¿Qué tema matemático debería repasar para entender esto mejor?
 
 Para manejar NumPy con soltura es útil repasar:
 
@@ -284,7 +293,7 @@ No necesitas nada avanzado; solo lo que se ve en los primeros capítulos de álg
 
 ---
 
-# 🟧 12. ¿Por qué se explicó la suma de vectores en el plano cartesiano?
+## 🟧 12. ¿Por qué se explicó la suma de vectores en el plano cartesiano?
 
 Porque visualmente ayuda a entender:
 
