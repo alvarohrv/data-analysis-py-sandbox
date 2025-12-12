@@ -49,7 +49,8 @@ pingouin #opcional para practicar pruebas estadísticas
 # -------------------------------------------------------
 # Entorno interactivo------------------------------------
 # -------------------------------------------------------
-ipython
+ipython  #shell interactiva mejorada // ingresar con $ ipython
+    # comando magicos %lsmagic %pws %cd %ls -l %boohmark %store name_fn? name_fn?? %edit %cat %load %run  $ipython -i script.py
 jupyterlab
 
 #### $ pip install -r requirements.txt ### ---  ---  --- 

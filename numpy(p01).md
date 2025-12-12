@@ -84,13 +84,13 @@ print(arr3)
 
 ```python
 u = np.array([1, 3, -1, 2])
-z = u + 1     # array([2, 4, 0, 3])
+z = u + 10     # array([11, 13,  9, 12])
+print(z)
 ```
 
 ### The operation is equivalent to vector addition:
 ~~~py
 # Plotting functions
-
 
 import time 
 import sys
@@ -118,13 +118,14 @@ def Plotvec1(u, z, v):
 
 
     Plotvec1(u, z, v)
-    ~~~
+~~~
 
 ### Multiplicación por escalar
 
 ```python
 y = np.array([1, 3])
 z = 2 * y     # array([2, 6])
+print(z)
 ```
 
 ---
