@@ -14,6 +14,11 @@ ENV/
 envs/
 .conda/
 
+# carpetas temporales (borrables)
+borrable/
+borrable01/
+borrable02/
+
 # Poetry
 .cache/
 .poetry/

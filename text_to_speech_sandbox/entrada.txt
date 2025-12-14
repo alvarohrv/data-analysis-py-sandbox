@@ -1,0 +1,23 @@
+<speak>
+  <voice name="en-US-AndrewMultilingualNeural">
+    <lang xml:lang="es-ES">
+        ¡Hola! <break time="500ms"/> 
+        Este es un ejemplo de <emphasis level="strong">SSML</emphasis>.
+        Gerundios e infinitivos: cuándo usar -ing o to + verbo   
+        En este módulo, practicaremos frases en gerundio como sujetos y objetos, y repasaremos cuándo usar un verbo en la forma -ing (gerundio) o en la forma infinitiva (to + verbo base). 
+        1. Cuando el verbo es el sujeto de la oración 
+        Cuando un verbo aparece al principio de una oración como sujeto, casi siempre se usa en la forma -ing.
+    </lang>
+    Gerunds and Infinitives: When to Use -ing or to + verb  
+    In this module, we will practice gerund phrases as subjects and objects, and review when to use a verb in the -ing form (gerund) or in the infinitive form (to + base verb).   
+    1. When the verb is the subject of the sentence   
+    When a verb appears at the beginning of a sentence as the subject, it is almost always used in the -ing form.   
+
+    Esto sucede porque el verbo actúa como un sustantivo, lo que significa que nombra una acción.   
+    This happens because the verb is acting like a noun, meaning it names an action. 
+  </voice>
+</speak>
+
+
+
+  
