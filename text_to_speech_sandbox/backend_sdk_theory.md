@@ -1,4 +1,6 @@
 APK para text to speech!!!
+((VER implementacion en: txt_a_mp3.py ))
+
 https://learn.microsoft.com/es-es/azure/ai-services/speech-service/quickstarts/setup-platform?pivots=programming-language-python&tabs=windows%2Cubuntu%2Cdotnetcli%2Cjre%2Cmaven%2Cnodejs%2Cmac%2Cpypi
 (learning) 
 

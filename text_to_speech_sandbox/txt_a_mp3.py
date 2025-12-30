@@ -1,3 +1,6 @@
+'''
+ACOTACION: Se trabajo en el contenedor de la imagen py_ds_hf_st_lab:i1225v1 de la PC VivoBookAsus.
+'''
 import os
 import azure.cognitiveservices.speech as speechsdk
 
