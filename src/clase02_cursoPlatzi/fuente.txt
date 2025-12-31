@@ -1,0 +1,16 @@
+FUENTE: https://deepnote.com/workspace/Jes%C3%BAs%20V%C3%A9lez%20Santiago-93d62bec-d8ef-4483-b1f6-dc606aa0eefd/project/Curso-EDA-Communication-c92bae1e-ca3b-47c5-b028-6a9a99949ed3/notebook/1.0-jvelezmagic-conociendo-nuestros-datos-1a3b6049fa8c40ff989e9568341699fb?secondary-sidebar-autoopen=true&secondary-sidebar=agent
+
+otra opcion:
+https://allisonhorst.github.io/palmerpenguins/
+pip install palmerpenguins
+Y luego importarlos en su notebook con:
+import palmerpenguins
+
+
+Algunas preguntas para analizar el dataset:
+¿Cuál es la vida promedio de un pingüino?
+¿Viven más las hembras o los machos?
+¿La altura es un rasgo distintivo del sexo?
+¿Cuál es la proporción altura/ancho de los picos?
+¿Correlación peso/sexo?
+¿Correlación especie pico?
