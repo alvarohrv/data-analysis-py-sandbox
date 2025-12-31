@@ -1,4 +1,4 @@
-# Librerías básicas de análisis de datos ---  ---  ---  ((( V02)))
+# Librerías básicas de análisis de datos ---  ---  --- 
 
 # -------------------------------------------------------
 # Núcleo de análisis de datos----------------------------
