@@ -68,6 +68,9 @@ wheels/
 # Archivos temporales de Jupyter
 ~*.*.ipynb
 
+# Ignorar metadatos de seguridad de Windows (ADS)
+*:Zone.Identifier
+
 # ──────────────────────────────
 # VS Code
 # ──────────────────────────────
