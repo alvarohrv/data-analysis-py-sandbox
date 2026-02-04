@@ -1,0 +1,89 @@
+Departamento,Municipio,Cultivo,Estado,Topografia,Drenaje,Riego,Fertilizantes aplicados,Secuencial
+CUNDINAMARCA,FUNZA,Guisantes,Por Establecer,Plano,Buen drenaje,Goteo,urea,166.0
+CUNDINAMARCA,FUNZA,Lechuga,Por Establecer,Plano,Buen drenaje,Aspersión,15-15-15,248.0
+CUNDINAMARCA,FUNZA,Zanahoria,Por Establecer,Plano,Buen drenaje,Aspersión,15-15-15,249.0
+CUNDINAMARCA,FUNZA,Maíz,Por Establecer,Plano,Buen drenaje,Aspersión,15-15-15,306.0
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,Plano,Buen drenaje,Aspersión,"compostaje+quimico edafico+(dap,kcl+fertilizacion liquida al suelo",388.0
+CUNDINAMARCA,FUNZA,Ajo,Por Establecer,Plano,Buen drenaje,Aspersión,urea,677.0
+CUNDINAMARCA,FUNZA,Ajo,Por Establecer,Plano,Buen drenaje,Aspersión,urea,678.0
+CUNDINAMARCA,FUNZA,Ajo,Por Establecer,Plano,No indica,No indica,no indica,1.047
+CUNDINAMARCA,FUNZA,Ajo,Por Establecer,Plano,No indica,No indica,no indica,1.048
+CUNDINAMARCA,FUNZA,Ajo,Por Establecer,Plano,No indica,No indica,no indica,1.049
+CUNDINAMARCA,FUNZA,Calas,Establecido,Plano,Buen drenaje,Aspersión,no indica,4.533
+CUNDINAMARCA,FUNZA,Calas,Establecido,Plano,Buen drenaje,Aspersión,no indica,4.583
+CUNDINAMARCA,FUNZA,Calas,Establecido,Plano,Buen drenaje,Aspersión,no indica,4.761
+CUNDINAMARCA,FUNZA,Tomate de Arbol,Establecido,Ondulado,Buen drenaje,No Tiene,quimico,6.627
+CUNDINAMARCA,FUNZA,Ajo,Por Establecer,Plano,Buen drenaje,Aspersión,no indica,7.144
+CUNDINAMARCA,FUNZA,Maracuyá,Por Establecer,Ondulado,Buen drenaje,Goteo,no indica,7.395
+CUNDINAMARCA,FUNZA,Granadilla,Establecido,Plano,Buen drenaje,No indica,no indica,7.837
+CUNDINAMARCA,FUNZA,Maíz,Por Establecer,Plano,Buen drenaje,Aspersión,biocompost 13-26-6,18.163
+CUNDINAMARCA,FUNZA,Gulupa,Establecido,Pendiente,Buen drenaje,Aspersión,no indica,18.241
+CUNDINAMARCA,FUNZA,Gulupa,Por Establecer,Plano,Buen drenaje,No indica,no indica,18.242
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,Ondulado,Buen drenaje,No indica,no indica,18.735
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,No indica,Buen drenaje,Aspersión,compos-triple 15,19.304
+CUNDINAMARCA,FUNZA,Uchuva,Establecido,Ondulado,Buen drenaje,No Tiene,no indica,19.975
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,No indica,Buen drenaje,No Tiene,no indica,20.529
+CUNDINAMARCA,FUNZA,Uchuva,Establecido,Pendiente,Buen drenaje,No indica,no indica,22.957
+CUNDINAMARCA,FUNZA,Clavel,Establecido,Plano,Regular drenaje,Aspersión,triple 15-quimicos,29.75
+CUNDINAMARCA,FUNZA,Gulupa,Por Establecer,Plano,Regular drenaje,No indica,no indica,31.304
+CUNDINAMARCA,FUNZA,Uchuva,Establecido,Ondulado,Buen drenaje,No indica,calfos abono fosforico,31.709
+CUNDINAMARCA,FUNZA,Hortalizas Varias,Por Establecer,Plano,Buen drenaje,Aspersión,no indica,31.908
+CUNDINAMARCA,FUNZA,Hortalizas Varias,Por Establecer,Plano,Buen drenaje,Aspersión,no indica,31.909
+CUNDINAMARCA,FUNZA,Hortalizas Varias,Por Establecer,Plano,Buen drenaje,No indica,no indica,31.911
+CUNDINAMARCA,FUNZA,Hortalizas Varias,Por Establecer,Plano,Buen drenaje,Aspersión,no indica,31.916
+CUNDINAMARCA,FUNZA,Uchuva,Establecido,Ondulado,Buen drenaje,No indica,no indica,32.587
+CUNDINAMARCA,FUNZA,Uchuva,Establecido,Ondulado,Buen drenaje,No indica,no indica,32.588
+CUNDINAMARCA,FUNZA,Uchuva,Establecido,Ondulado,Buen drenaje,No indica,no indica,33.011
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,Ondulado,Buen drenaje,No indica,ninguno,33.097
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,Ondulado,Buen drenaje,No indica,ninguno,34.655
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,Ondulado,Buen drenaje,No indica,no indica,35.808
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,Ondulado,Buen drenaje,No indica,no indica,35.81
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,Ondulado,Buen drenaje,No indica,no indica,35.813
+CUNDINAMARCA,FUNZA,Uchuva,Por Establecer,Ondulado,Buen drenaje,No indica,no indica,35.96
+CUNDINAMARCA,FUNZA,Tomate,Por Establecer,Pendiente moderada,Regular drenaje,Goteo,no,39.085
+CUNDINAMARCA,FUNZA,Tomate,Por Establecer,Pendiente moderada,Regular drenaje,Goteo,no,39.086
+CUNDINAMARCA,FUNZA,Caducifolios,Establecido,Plano,Buen drenaje,Aspersión,no,39.284
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,Plano,Buen drenaje,Aspersión,si,42.343
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,Plano,Buen drenaje,Aspersión,si,42.373
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,Plano,Buen drenaje,Aspersión,si,42.444
+CUNDINAMARCA,FUNZA,Papa de año,Por Establecer,Plano,Buen drenaje,No indica,no indica,42.838
+CUNDINAMARCA,FUNZA,Pastos,Por Establecer,Plano,Buen drenaje,No indica,no indica,43.106
+CUNDINAMARCA,FUNZA,Pastos,Por Establecer,Plano,Buen drenaje,No indica,no indica,43.108
+CUNDINAMARCA,FUNZA,Ruscus,Establecido,Moderadamente ondulado,Buen drenaje,Manguera,si,43.234
+CUNDINAMARCA,FUNZA,No Indica,No Indica,No indica,No indica,No indica,no indica,43.393
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,No indica,No indica,No Tiene,no indica,44.757
+CUNDINAMARCA,FUNZA,Pastos,Establecido,Plano,Buen drenaje,No Tiene,si,45.266
+CUNDINAMARCA,FUNZA,Pastos,Establecido,Plano,Buen drenaje,No Tiene,si,45.272
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,No indica,No indica,No indica,no indica,45.273
+CUNDINAMARCA,FUNZA,Pastos,Establecido,Plano,Buen drenaje,Aspersión,si,45.471
+CUNDINAMARCA,FUNZA,Pastos,Establecido,Plano,Buen drenaje,Aspersión,si,45.474
+CUNDINAMARCA,FUNZA,No Indica,No Indica,No indica,No indica,Aspersión,no indica,49.395
+CUNDINAMARCA,FUNZA,No Indica,No Indica,No indica,No indica,Aspersión,no indica,49.415
+CUNDINAMARCA,FUNZA,Pasto KinGrass,Por Establecer,Plano,Buen drenaje,Aspersión,si,49.615
+CUNDINAMARCA,FUNZA,Lechuga,Establecido,Plano,Buen drenaje,Aspersión,no indica,50.543
+CUNDINAMARCA,FUNZA,Gulupa,Por Establecer,Pendiente fuerte,No indica,No indica,no indica,52.75
+CUNDINAMARCA,FUNZA,No Indica,No Indica,Plano,No indica,No indica,ninguno,57.904
+CUNDINAMARCA,FUNZA,No Indica,No Indica,Plano,No indica,No indica,ninguno,57.905
+CUNDINAMARCA,FUNZA,No Indica,No Indica,Plano,No indica,No indica,ninguno,57.906
+CUNDINAMARCA,FUNZA,No Indica,No Indica,Plano,No indica,No indica,ninguno,57.908
+CUNDINAMARCA,FUNZA,Fresa,Establecido,Plano,Mal drenaje,Goteo,"calcio, sulfatos, fosforo, cal",59.308
+CUNDINAMARCA,FUNZA,Hipérico,Por Establecer,Moderadamente ondulado,Regular drenaje,No indica,no indica,59.32
+CUNDINAMARCA,FUNZA,Hipérico,Por Establecer,Moderadamente ondulado,Regular drenaje,No indica,no indica,59.328
+CUNDINAMARCA,FUNZA,Quinua,Por Establecer,Plano,Buen drenaje,Aspersión,foliar,62.104
+CUNDINAMARCA,FUNZA,Quinua,Por Establecer,Plano,Buen drenaje,Aspersión,foliar,62.105
+CUNDINAMARCA,FUNZA,Tomate,Por Establecer,Plano,Buen drenaje,Manguera,si,62.414
+CUNDINAMARCA,FUNZA,Pasto,Por Establecer,Plano,Regular drenaje,Aspersión,no indica,66.578
+CUNDINAMARCA,FUNZA,Fresa,Por Establecer,Plano,Buen drenaje,Goteo,no indica,66.686
+CUNDINAMARCA,FUNZA,Café,Establecido,Pendiente moderada,Buen drenaje,No indica,no indica,68.483
+CUNDINAMARCA,FUNZA,Quinua,Establecido,Plano,Buen drenaje,Aspersión,compostaje y gallinaza,68.825
+CUNDINAMARCA,FUNZA,Alfalfa,No Indica,No indica,No indica,No indica,no indica,73.513
+CUNDINAMARCA,FUNZA,Lechuga,No Indica,Plano,No indica,Aspersión,no indica,78.283
+CUNDINAMARCA,FUNZA,Lechuga,No Indica,Plano,No indica,Aspersión,no indica,78.299
+CUNDINAMARCA,FUNZA,Ajo,Por Establecer,Plano,Buen drenaje,No indica,no indica,80.943
+CUNDINAMARCA,FUNZA,Pasto Kikuyo,Establecido,Plano,Buen drenaje,No indica,no indica,84.474
+CUNDINAMARCA,FUNZA,Pasto Kikuyo,Establecido,Plano,Buen drenaje,No indica,no indica,84.475
+CUNDINAMARCA,FUNZA,Pasto Kikuyo,Establecido,Plano,Buen drenaje,No indica,no indica,84.476
+CUNDINAMARCA,FUNZA,Pasto Kikuyo,Establecido,Plano,Buen drenaje,Cañon,no indica,89.671
+CUNDINAMARCA,FUNZA,Pasto Kikuyo,Establecido,Plano,Buen drenaje,Cañon,no indica,89.672
+CUNDINAMARCA,FUNZA,Pasto Kikuyo,Establecido,Plano,Buen drenaje,Cañon,no indica,89.673
+CUNDINAMARCA,FUNZA,Pasto Kikuyo,Establecido,Plano,Buen drenaje,Cañon,no indica,89.674
