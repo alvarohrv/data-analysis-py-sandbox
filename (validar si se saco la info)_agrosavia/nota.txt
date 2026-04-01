@@ -1,0 +1,3 @@
+Aunque este proyecto posee su propio repositorio,
+pero preferiblemente los notebooks trabajarlos aca en este proyecto
+y llevar al repo local manualmente

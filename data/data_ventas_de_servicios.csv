@@ -1,0 +1,115 @@
+id_registro,fecha,ciudad,categoria,canal,edad,ventas
+1001,2025-02-10,Bogotá,Salud,Online,34,1336.75
+1002,2025-01-28,Bogotá,Retail,Tienda,40,2293.54
+1003,2025-05-15,Cali,Salud,Tienda,16,209.96
+1004,2025-03-13,Medellín,Salud,Call Center,20,1434.83
+1006,2025-06-11,Bogotá,Educación,Tienda,19,2918.62
+1007,2025-02-02,Medellín,Salud,Call Center,31,1391.24
+1008,2025-02-17,Desconocido,Salud,Call Center,39,2367.42
+1009,2025-05-31,Bogotá,Educación,Tienda,31,427.19
+1010,2025-03-03,Bogotá,Salud,Online,17,4705.63
+1011,2025-02-06,Desconocido,Salud,Online,40,2112.36
+1012,2025-04-09,Bogotá,Educación,Tienda,64,2918.62
+1014,2025-04-14,Bogotá,Salud,Call Center,47,2367.42
+1015,2025-02-04,Bogotá,Educación,Tienda,42,4389.47
+1016,2025-04-11,Barranquilla,Salud,Online,35,1200.5
+1017,2025-06-24,Cartagena,Salud,Online,39,865.93
+1018,2025-05-11,Bogotá,Finanzas,Call Center,40,1917.57
+1019,2025-01-01,Medellín,Retail,Tienda,40,3899.13
+1020,2025-01-05,Cartagena,Retail,Tienda,27,2427.83
+1021,2025-05-22,Desconocido,Educación,Call Center,50,4927.17
+1022,2025-04-13,Cali,Retail,Tienda,48,1914.86
+1023,2025-01-27,Medellín,Educación,Tienda,48,3760.41
+1024,2025-05-17,Cartagena,Retail,Call Center,58,1995.3
+1025,2025-01-15,Medellín,Finanzas,Call Center,52,4154.36
+1026,2025-05-13,Medellín,Educación,Online,40,2866.95
+1027,2025-02-11,Cali,Retail,Tienda,18,364.38
+1028,2025-05-04,Cali,Finanzas,Call Center,16,232.27
+1029,2025-06-28,Barranquilla,Retail,Online,48,712.57
+1030,2025-03-04,Cartagena,Salud,Tienda,55,117.68
+1031,2025-04-06,Barranquilla,Salud,Online,25,423.03
+1032,2025-02-21,Bogotá,Finanzas,Call Center,58,1200.5
+1033,2025-04-06,Medellín,Salud,Tienda,59,2695.01
+1034,2025-05-12,Medellín,Salud,Online,44,2367.42
+1035,2025-05-31,Bogotá,Educación,Call Center,28,4570.17
+1036,2025-05-23,Cali,Retail,Call Center,27,2946.49
+1037,2025-06-20,Bogotá,Educación,Call Center,46,3644.3
+1038,2025-01-29,Desconocido,Retail,Call Center,61,3797.55
+1039,2025-02-05,Cartagena,Salud,Call Center,17,1920.36
+1040,2025-01-13,Medellín,Educación,Call Center,50,1243.37
+1041,2025-06-09,Desconocido,Retail,Call Center,38,1064.97
+1042,2025-03-12,Medellín,Retail,Online,32,1294.64
+1043,2025-03-27,Bogotá,Educación,Tienda,41,1409.92
+1044,2025-01-28,Bogotá,Finanzas,Tienda,23,1075.78
+1046,2025-06-19,Medellín,Salud,Call Center,41,3797.15
+1047,2025-02-14,Bogotá,Retail,Tienda,40,282.14
+1049,2025-05-14,Cali,Educación,Tienda,49,159.81
+1050,2025-01-28,Bogotá,Retail,Call Center,40,1200.5
+1051,2025-01-28,Cartagena,Salud,Online,56,2407.24
+1052,2025-04-18,Medellín,Salud,Call Center,22,4165.29
+1053,2025-02-13,Medellín,Educación,Tienda,19,1573.5
+1054,2025-03-25,Barranquilla,Retail,Call Center,60,4091.11
+1055,2025-01-30,Medellín,Retail,Tienda,26,4841.47
+1056,2025-03-16,Cartagena,Educación,Call Center,44,487.62
+1057,2025-05-08,Bogotá,Retail,Tienda,51,3969.5
+1058,2025-04-02,Desconocido,Educación,Tienda,40,2970.28
+1059,2025-05-09,Desconocido,Retail,Tienda,40,2426.23
+1060,2025-05-01,Barranquilla,Finanzas,Call Center,40,2131.65
+1061,2025-01-27,Medellín,Retail,Tienda,51,3934.11
+1062,2025-05-01,Barranquilla,Salud,Call Center,25,3214.84
+1063,2025-04-26,Cali,Salud,Online,52,4034.97
+1064,2025-01-03,Medellín,Finanzas,Online,24,1200.5
+1065,2025-04-13,Bogotá,Retail,Tienda,39,3105.46
+1066,2025-06-04,Bogotá,Salud,Call Center,50,2367.42
+1067,2025-05-17,Cali,Salud,Tienda,64,3060.03
+1068,2025-03-03,Cali,Retail,Call Center,50,3201.39
+1069,2025-06-14,Cali,Educación,Call Center,63,2796.34
+1070,2025-02-20,Cali,Retail,Online,51,500.46
+1071,2025-06-21,Barranquilla,Educación,Call Center,40,3645.67
+1072,2025-06-01,Bogotá,Finanzas,Call Center,40,2759.86
+1073,2025-02-28,Bogotá,Finanzas,Tienda,33,2282.01
+1074,2025-04-28,Desconocido,Salud,Tienda,64,4556.83
+1075,2025-06-09,Cali,Salud,Call Center,54,2367.42
+1076,2025-04-06,Cali,Salud,Online,47,2641.83
+1078,2025-04-23,Medellín,Salud,Tienda,38,3992.54
+1079,2025-03-03,Medellín,Retail,Online,47,2323.77
+1080,2025-02-21,Medellín,Educación,Tienda,52,4218.35
+1081,2025-01-12,Cartagena,Finanzas,Call Center,27,1917.57
+1082,2025-02-08,Barranquilla,Educación,Call Center,64,2918.62
+1083,2025-05-10,Bogotá,Salud,Call Center,40,277.01
+1084,2025-05-11,Cali,Retail,Tienda,28,3122.99
+1085,2025-04-23,Bogotá,Retail,Tienda,38,1769.7
+1086,2025-04-11,Medellín,Salud,Tienda,40,1085.2
+1087,2025-04-23,Barranquilla,Retail,Tienda,50,2919.27
+1088,2025-03-22,Medellín,Educación,Call Center,40,1740.74
+1089,2025-04-23,Bogotá,Educación,Online,56,2918.62
+1090,2025-01-02,Barranquilla,Salud,Call Center,45,2327.59
+1091,2025-05-10,Cartagena,Retail,Tienda,40,2944.59
+1092,2025-02-23,Bogotá,Finanzas,Call Center,40,2031.49
+1093,2025-03-28,Bogotá,Educación,Online,40,3503.45
+1094,2025-05-09,Cartagena,Educación,Call Center,64,941.33
+1095,2025-05-27,Bogotá,Educación,Online,35,3497.68
+1096,2025-05-06,Bogotá,Educación,Tienda,63,2087.72
+1097,2025-05-10,Desconocido,Finanzas,Call Center,40,4377.87
+1098,2025-02-22,Bogotá,Salud,Call Center,37,2367.42
+1099,2025-06-21,Cali,Educación,Call Center,40,2918.62
+1100,2025-06-09,Barranquilla,Retail,Call Center,28,3029.58
+1101,2025-06-09,Barranquilla,Finanzas,Tienda,34,1158.05
+1102,2025-03-09,Medellín,Educación,Online,64,4117.86
+1104,2025-05-25,Bogotá,Educación,Call Center,27,2918.62
+1105,2025-02-07,Bogotá,Salud,Tienda,56,207.43
+1106,2025-01-24,Cali,Finanzas,Online,34,2766.14
+1107,2025-03-10,Bogotá,Salud,Online,40,2695.4
+1108,2025-04-26,Cali,Finanzas,Online,27,1812.16
+1109,2025-04-08,Medellín,Educación,Online,40,4476.38
+1110,2025-05-19,Barranquilla,Educación,Online,24,687.3
+1111,2025-05-24,Medellín,Finanzas,Online,22,1683.99
+1112,2025-04-07,Cali,Retail,Tienda,43,1641.83
+1113,2025-05-04,Cartagena,Retail,Call Center,29,506.84
+1114,2025-03-11,Desconocido,Educación,Online,40,2431.67
+1115,2025-04-03,Bogotá,Educación,Tienda,34,3454.53
+1116,2025-01-03,Medellín,Salud,Tienda,62,2582.7
+1117,2025-05-28,Medellín,Educación,Call Center,40,2918.62
+1118,2025-06-13,Medellín,Finanzas,Call Center,20,1917.57
+1119,2025-05-27,Bogotá,Retail,Online,50,1200.5
+1120,2025-03-31,Desconocido,Retail,Call Center,40,4348.09
